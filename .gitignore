@@ -1,0 +1,6 @@
+_site
+Gemfile.lock
+bower_components
+# IntelliJ IDEA workspace:
+.idea
+*.iml
