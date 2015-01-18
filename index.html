@@ -1,3 +1,6 @@
+---
+# Yaml front matter that triggers processing by jekyll
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -131,7 +134,14 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Jobs</h2>
 
-                <p>Blah blah blah, blah blah, blah blah blah.</p>
+                <!-- Create a ul (without bullets) for each job in the data section: -->
+                <ul style="list-style: none">
+                    {% for job in site.data.jobs %}
+                            <li>
+                                <a href="{{job.link}}">{{ job.title }}</a> ({{job.company}}), Posted {{job.post_date}}
+                            </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </div>
@@ -167,7 +177,7 @@
 </section>
 
 <!-- Map Section -->
-<div id="map"></div>
+<!--<div id="map"></div>-->
 
 <!-- Footer -->
 <footer>
