@@ -99,15 +99,7 @@
         <div class="col-lg-8 col-lg-offset-2">
             <h2>About us</h2>
 
-            <p>Grayscale is a free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, simply
-                download the template on <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview
-                    page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
-
-            <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a> along with a
-                custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
-
-            <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with LESS files for easy
-                customization.</p>
+            <p>We're under construction! Please bear with us as we improve our site.</p>
         </div>
     </div>
 </section>
@@ -119,9 +111,12 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Events</h2>
 
-                <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
-                <a href="http://startbootstrap.com/template-overviews/grayscale/" class="btn btn-default btn-lg">Visit
-                    Download Page</a>
+                <p>There are lots of events. Check them out!</p>
+                <a href="https://www.google.com/calendar/embed?src=s0bgkk5un6iq16k3521f76sckk%40group.calendar.google.com&ctz=America/Los_Angeles"
+                   class="btn btn-default btn-lg" target="_blank">View event calendar</a>
+
+                <!--<iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=s0bgkk5un6iq16k3521f76sckk%40group.calendar.google.com&amp;color=%23875509&amp;ctz=America%2FLos_Angeles&amp;search_plus_one=form" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
+
             </div>
         </div>
     </div>
@@ -137,9 +132,9 @@
                 <!-- Create a ul (without bullets) for each job in the data section: -->
                 <ul style="list-style: none">
                     {% for job in site.data.jobs %}
-                            <li>
-                                <a href="{{job.link}}">{{ job.title }}</a> ({{job.company}}), Posted {{job.post_date}}
-                            </li>
+                    <li>
+                        <a href="{{job.link}}" target="_blank">{{job.title}}</a> ({{job.company}}), Posted {{job.post_date}}
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
