@@ -1,20 +1,29 @@
 ,title,company,post_date,link,active,source,jobkey
-0,Machine Learning for Multi-Modal Data Analysis Research,SDSU Research Foundation,03/08/2015,http://www.indeed.com/viewjob?jk=d994cc5069fea756,True,indeed,d994cc5069fea756
-1,Google Cloud Solutions Practice Google Data Solution Architect,PwC,03/08/2015,http://www.indeed.com/viewjob?jk=39dc329c9cc8419a,True,indeed,39dc329c9cc8419a
-3,INTERN - Data Scientist (Laser Configuration Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5f8ab2c081eb54cb,True,indeed,5f8ab2c081eb54cb
-4,INTERN - Data Scientist (Laser Touch Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=63df484714e09c3b,True,indeed,63df484714e09c3b
-5,INTERN - Data Analytics & Visualization,Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5126b5753c1b33d1,True,indeed,5126b5753c1b33d1
-6,Data Scientist,The Eastridge Group,02/22/2015,http://www.indeed.com/viewjob?jk=997b387e8a556856,True,indeed,997b387e8a556856
-7,Intern - Fraud Data Research/Data Science,CoreLogic,02/07/2015,http://www.indeed.com/viewjob?jk=c7a2025630fc2a94,True,indeed,c7a2025630fc2a94
-9,Data Scientist,2pointB,02/04/2015,http://www.indeed.com/viewjob?jk=d5e4197e3fd945d7,True,indeed,d5e4197e3fd945d7
-12,"Director, Genomics Pipeline & Analytics Processing",Interpreta,02/04/2015,http://www.indeed.com/viewjob?jk=5a55330c4d759a28,True,indeed,5a55330c4d759a28
-15,Data Scientist,BASF,01/25/2015,http://www.indeed.com/viewjob?jk=cf9de3f22833c970,True,indeed,cf9de3f22833c970
-17,Data Scientist,Experian,01/13/2015,http://www.indeed.com/viewjob?jk=e01032a14a8fe444,True,indeed,e01032a14a8fe444
-21,"Data Scientist, Mid Job",Booz Allen Hamilton,01/04/2015,http://www.indeed.com/viewjob?jk=58c1c7ec3fca27dc,True,indeed,58c1c7ec3fca27dc
-22,Senior Scientist,CoreLogic,01/04/2015,http://www.indeed.com/viewjob?jk=0d5c1e6e6601f83b,True,indeed,0d5c1e6e6601f83b
-29,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
-44,Director of Data Science,,,http://www.aplitrak.com/?adid=T0lBSC42NTU4OS4xNzYwQHN0aHJlZXVzLmFwbGl0cmFrLmNvbQ,,,
-47,Senior Data Scientist,Leidos,10/10/2014,http://clearedjobs.net/view-job/174963,,,
-58,Data Scientist,Collabera,08/03/2014,http://apps.collabera.com/jobs/42713-Data-Scientist-California-US?refid=Indeed.com&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed,,,
-59,Data Scientist,Axius technologies,08/03/2014,https://www.smartrecruiters.com/AxiusTechnologies2/78348344--data-scientist,,,
-65,"Cloud Infrastructure Engineer: Consumer Web Platform, Big Data, Linux DevOps",TriStaff,06/30/2014,http://www.tristaff.com/jobs_detail.php?action=search&job_id=1085,,,
+0,Data Scientist,The Experience Engine,03/17/2015,http://www.indeed.com/viewjob?jk=a261cfea1c792959,True,indeed,a261cfea1c792959
+1,Lead Statistical Analyst,CoreLogic,03/17/2015,http://www.indeed.com/viewjob?jk=1011fd3a30bd0cac,True,indeed,1011fd3a30bd0cac
+2,Lead Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=38990aef3df927e9,True,indeed,38990aef3df927e9
+3,"Sr Manager, Statistical Programming",Hologic,03/17/2015,http://www.indeed.com/viewjob?jk=c4053f8109b4030b,True,indeed,c4053f8109b4030b
+4,Sr. Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=d111d0a379cb9b32,True,indeed,d111d0a379cb9b32
+5,Director of ADC Analytical Development,Ajinomoto Althea,03/17/2015,http://www.indeed.com/viewjob?jk=f552640ecb25a58d,True,indeed,f552640ecb25a58d
+6,Analytic Scientist,Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=e3cfd0611c33bdf7,True,indeed,e3cfd0611c33bdf7
+7,Analytic Scientist,FICO,03/17/2015,http://www.indeed.com/viewjob?jk=8d0f652dac664fe6,True,indeed,8d0f652dac664fe6
+8,Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True,,
+9,Data Scientist,ID Analytics,03/17/2015,http://www.indeed.com/viewjob?jk=62b3dc15975c3c5d,True,indeed,62b3dc15975c3c5d
+10,Machine Learning for Multi-Modal Data Analysis Research,SDSU Research Foundation,03/08/2015,http://www.indeed.com/viewjob?jk=d994cc5069fea756,True,indeed,d994cc5069fea756
+11,Google Cloud Solutions Practice Google Data Solution Architect,PwC,03/08/2015,http://www.indeed.com/viewjob?jk=39dc329c9cc8419a,True,indeed,39dc329c9cc8419a
+13,INTERN - Data Scientist (Laser Configuration Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5f8ab2c081eb54cb,True,indeed,5f8ab2c081eb54cb
+14,INTERN - Data Scientist (Laser Touch Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=63df484714e09c3b,True,indeed,63df484714e09c3b
+15,INTERN - Data Analytics & Visualization,Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5126b5753c1b33d1,True,indeed,5126b5753c1b33d1
+16,Data Scientist,The Eastridge Group,02/22/2015,http://www.indeed.com/viewjob?jk=997b387e8a556856,True,indeed,997b387e8a556856
+17,Intern - Fraud Data Research/Data Science,CoreLogic,02/07/2015,http://www.indeed.com/viewjob?jk=c7a2025630fc2a94,True,indeed,c7a2025630fc2a94
+19,Data Scientist,2pointB,02/04/2015,http://www.indeed.com/viewjob?jk=d5e4197e3fd945d7,True,indeed,d5e4197e3fd945d7
+22,"Director, Genomics Pipeline & Analytics Processing",Interpreta,02/04/2015,http://www.indeed.com/viewjob?jk=5a55330c4d759a28,True,indeed,5a55330c4d759a28
+25,Data Scientist,BASF,01/25/2015,http://www.indeed.com/viewjob?jk=cf9de3f22833c970,True,indeed,cf9de3f22833c970
+27,Data Scientist,Experian,01/13/2015,http://www.indeed.com/viewjob?jk=e01032a14a8fe444,True,indeed,e01032a14a8fe444
+31,"Data Scientist, Mid Job",Booz Allen Hamilton,01/04/2015,http://www.indeed.com/viewjob?jk=58c1c7ec3fca27dc,True,indeed,58c1c7ec3fca27dc
+39,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
+54,Director of Data Science,,,http://www.aplitrak.com/?adid=T0lBSC42NTU4OS4xNzYwQHN0aHJlZXVzLmFwbGl0cmFrLmNvbQ,,,
+57,Senior Data Scientist,Leidos,10/10/2014,http://clearedjobs.net/view-job/174963,,,
+68,Data Scientist,Collabera,08/03/2014,http://apps.collabera.com/jobs/42713-Data-Scientist-California-US?refid=Indeed.com&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed,,,
+69,Data Scientist,Axius technologies,08/03/2014,https://www.smartrecruiters.com/AxiusTechnologies2/78348344--data-scientist,,,
+75,"Cloud Infrastructure Engineer: Consumer Web Platform, Big Data, Linux DevOps",TriStaff,06/30/2014,http://www.tristaff.com/jobs_detail.php?action=search&job_id=1085,,,
