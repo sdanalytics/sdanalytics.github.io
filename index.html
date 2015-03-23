@@ -157,10 +157,10 @@
                     </li>
                     {% endfor %}
                 </ul>
-                <!--<p>-->
-                    <!--<a href="mailto:admin@sdanalytics.org">Post</a> an analytics job with us. It's free.-->
-                <!--</p>-->
-                <button title="It's free." class="btn btn-default">Post an analytics job</button>
+                <form action="mailto:admin@sdanalytics.org" target="_blank">
+                    <input type="hidden" name="subject" value="Please post this job!">
+                    <button title="It's free." class="btn btn-default">Post an analytics job</button>
+                </form>
             </div>
         </div>
     </div>
