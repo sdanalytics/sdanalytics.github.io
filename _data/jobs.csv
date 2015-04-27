@@ -1,25 +1,34 @@
 title,company,post_date,link,active
+"Director, Data Science",ID Analytics,04/27/2015,http://www.indeed.com/viewjob?jk=7cf92a7f1ce65fee,True
+Data Scientist,Teradata,04/27/2015,http://www.indeed.com/viewjob?jk=7730736db58c176d,True
+Data Scientist,Experian DataLab,04/27/2015,http://www.indeed.com/viewjob?jk=deabb9f75ddf3cef,True
+Data Scientist in Cyber Security,FocusKPI,04/27/2015,http://www.indeed.com/viewjob?jk=fdd0e4ce82ce3a96,True
+Junior Data Scientist,Systel,04/27/2015,http://www.indeed.com/viewjob?jk=e86f8c7cd260e861,True
+Data Scientist,Net2Source,04/27/2015,http://www.indeed.com/viewjob?jk=8cd653bdb74d758a,True
+Data Scientist,Cognizant,04/27/2015,http://www.indeed.com/viewjob?jk=e896a82ed64c8593,True
+Data Scientist,Bridgepoint Education,04/27/2015,http://www.indeed.com/viewjob?jk=4fa438997061a0a8,True
+Director of Statistics,Theorem Clinical Research,04/27/2015,http://www.indeed.com/viewjob?jk=14bc9a88ffe52388,True
 Big Data Engineer,Digital Telepathy,03/28/2015,http://www.dtelepathy.com/careers/big-data-engineer/,True
 Statistician,CCHN,03/28/2015,http://www.indeed.com/viewjob?jk=fc10ed2ab794556a,True
-"Sr Manager, SAS/Statistical Programming",SimulStat,03/28/2015,http://www.indeed.com/viewjob?jk=2c2a57d4aa66aa8f,True
+"Sr Manager, SAS/Statistical Programming",SimulStat,03/28/2015,http://www.indeed.com/viewjob?jk=2c2a57d4aa66aa8f,False
 Data Scientist,The Control Group,03/28/2015,http://www.indeed.com/viewjob?jk=3ea7435469b23777,True
-Python Engineer - Machine Learning,Workbridge Associates,03/28/2015,http://www.indeed.com/viewjob?jk=1daa3192cda10f9a,True
+Python Engineer - Machine Learning,Workbridge Associates,03/28/2015,http://www.indeed.com/viewjob?jk=1daa3192cda10f9a,False
 Staff Data Scientist,Kforce,03/19/2015,http://www.indeed.com/viewjob?jk=aad4708dbc92bad1,True
 Data Scientist,The Experience Engine,03/17/2015,http://www.indeed.com/viewjob?jk=a261cfea1c792959,True
 Lead Statistical Analyst,CoreLogic,03/17/2015,http://www.indeed.com/viewjob?jk=1011fd3a30bd0cac,False
-Lead Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=38990aef3df927e9,True
+Lead Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=38990aef3df927e9,False
 "Sr Manager, Statistical Programming",Hologic,03/17/2015,http://www.indeed.com/viewjob?jk=c4053f8109b4030b,True
-Sr. Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=d111d0a379cb9b32,True
+Sr. Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=d111d0a379cb9b32,False
 Director of ADC Analytical Development,Ajinomoto Althea,03/17/2015,http://www.indeed.com/viewjob?jk=f552640ecb25a58d,True
-Analytic Scientist,Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=e3cfd0611c33bdf7,True
+Analytic Scientist,Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=e3cfd0611c33bdf7,False
 Analytic Scientist,FICO,03/17/2015,http://www.indeed.com/viewjob?jk=8d0f652dac664fe6,True
 Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True
 Data Scientist,ID Analytics,03/17/2015,http://www.indeed.com/viewjob?jk=62b3dc15975c3c5d,True
 Machine Learning for Multi-Modal Data Analysis Research,SDSU Research Foundation,03/08/2015,http://www.indeed.com/viewjob?jk=d994cc5069fea756,True
 Google Cloud Solutions Practice Google Data Solution Architect,PwC,03/08/2015,http://www.indeed.com/viewjob?jk=39dc329c9cc8419a,False
 "Director, Data Science",LifeLock,03/03/2015,http://www.indeed.com/viewjob?jk=274270e3542467c8,False
-INTERN - Data Scientist (Laser Configuration Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5f8ab2c081eb54cb,True
-INTERN - Data Scientist (Laser Touch Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=63df484714e09c3b,True
+INTERN - Data Scientist (Laser Configuration Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5f8ab2c081eb54cb,False
+INTERN - Data Scientist (Laser Touch Analysis),Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=63df484714e09c3b,False
 INTERN - Data Analytics & Visualization,Cymer,03/03/2015,http://www.indeed.com/viewjob?jk=5126b5753c1b33d1,True
 Data Scientist,The Eastridge Group,02/22/2015,http://www.indeed.com/viewjob?jk=997b387e8a556856,True
 Intern - Fraud Data Research/Data Science,CoreLogic,02/07/2015,http://www.indeed.com/viewjob?jk=c7a2025630fc2a94,True
@@ -32,11 +41,11 @@ Lead Big Data Scientist,Smith Hanley Associates,01/25/2015,http://www.indeed.com
 Senior Data Scientist,405labs,01/25/2015,http://www.indeed.com/viewjob?jk=a08f3a5e62ddab08,False
 Data Scientist,BASF,01/25/2015,http://www.indeed.com/viewjob?jk=cf9de3f22833c970,False
 Graph Analytics Systems Architect,Algebraix,01/17/2015,http://www.indeed.com/viewjob?jk=1881551288ba5a7a,False
-Data Scientist,Experian,01/13/2015,http://www.indeed.com/viewjob?jk=e01032a14a8fe444,True
+Data Scientist,Experian,01/13/2015,http://www.indeed.com/viewjob?jk=e01032a14a8fe444,False
 Analytic Scientist,FICO,01/13/2015,http://www.indeed.com/viewjob?jk=a7e58bbdb9773042,False
 Sr. Analytic Scientist,FICO,01/13/2015,http://www.indeed.com/viewjob?jk=04ffc41aaf567076,False
 "Data Scientist, Lead Job",Booz Allen Hamilton,01/04/2015,http://www.indeed.com/viewjob?jk=9f9f0f2d59d91548,False
-"Data Scientist, Mid Job",Booz Allen Hamilton,01/04/2015,http://www.indeed.com/viewjob?jk=58c1c7ec3fca27dc,True
+"Data Scientist, Mid Job",Booz Allen Hamilton,01/04/2015,http://www.indeed.com/viewjob?jk=58c1c7ec3fca27dc,False
 Senior Scientist,CoreLogic,01/04/2015,http://www.indeed.com/viewjob?jk=0d5c1e6e6601f83b,False
 "Director, Data Science",,,http://www.indeed.com/viewjob?jk=975c750c46be8553,False
 Data Scientist,Eastridge InfoTech,01/04/2015,http://www.indeed.com/viewjob?jk=390c1528be7d03cb,False
