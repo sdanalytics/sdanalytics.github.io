@@ -1,8 +1,14 @@
 title,company,post_date,link,active
+"Data Scientist, Senior Job",Booz Allen Hamilton,05/05/2015,http://www.indeed.com/viewjob?jk=72259bc2d9ca084c,True
+"Data Scientist, Junior Job",Booz Allen,05/05/2015,http://www.indeed.com/viewjob?jk=a40d944191cbbfc4,True
+Data Scientist,Pluralsight,05/05/2015,http://www.indeed.com/viewjob?jk=f0ad3776d2b8b8a6,True
+"Data Scientist, Mid Job",Booz Allen Hamilton,05/05/2015,http://www.indeed.com/viewjob?jk=771cd32777774586,True
+Junior Data Scientist,Themesoft,05/05/2015,http://www.indeed.com/viewjob?jk=5440bc1e00fa10d7,True
+Data Scientist,Diverse Lynx,05/05/2015,http://www.indeed.com/viewjob?jk=6822b39942e80dca,True
 "Director, Data Science",ID Analytics,04/27/2015,http://www.indeed.com/viewjob?jk=7cf92a7f1ce65fee,True
 Data Scientist,Teradata,04/27/2015,http://www.indeed.com/viewjob?jk=7730736db58c176d,True
 Data Scientist,Experian DataLab,04/27/2015,http://www.indeed.com/viewjob?jk=deabb9f75ddf3cef,True
-Data Scientist in Cyber Security,FocusKPI,04/27/2015,http://www.indeed.com/viewjob?jk=fdd0e4ce82ce3a96,True
+Data Scientist in Cyber Security,FocusKPI,04/27/2015,http://www.indeed.com/viewjob?jk=fdd0e4ce82ce3a96,False
 Junior Data Scientist,Systel,04/27/2015,http://www.indeed.com/viewjob?jk=e86f8c7cd260e861,True
 Data Scientist,Net2Source,04/27/2015,http://www.indeed.com/viewjob?jk=8cd653bdb74d758a,True
 Data Scientist,Cognizant,04/27/2015,http://www.indeed.com/viewjob?jk=e896a82ed64c8593,True
@@ -21,7 +27,7 @@ Lead Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/vie
 Sr. Analytic Scientist (Cyber),Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=d111d0a379cb9b32,False
 Director of ADC Analytical Development,Ajinomoto Althea,03/17/2015,http://www.indeed.com/viewjob?jk=f552640ecb25a58d,True
 Analytic Scientist,Karmasphere,03/17/2015,http://www.indeed.com/viewjob?jk=e3cfd0611c33bdf7,False
-Analytic Scientist,FICO,03/17/2015,http://www.indeed.com/viewjob?jk=8d0f652dac664fe6,True
+Analytic Scientist,FICO,03/17/2015,http://www.indeed.com/viewjob?jk=8d0f652dac664fe6,False
 Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True
 Data Scientist,ID Analytics,03/17/2015,http://www.indeed.com/viewjob?jk=62b3dc15975c3c5d,True
 Machine Learning for Multi-Modal Data Analysis Research,SDSU Research Foundation,03/08/2015,http://www.indeed.com/viewjob?jk=d994cc5069fea756,True
