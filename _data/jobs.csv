@@ -1,17 +1,25 @@
 title,company,post_date,link,active
+R&D Data Analysis Intern,UTC Aerospace Systems,06/02/2015,http://www.indeed.com/viewjob?jk=0f83c2627d2a7c61,True
+Data Scientist,Intuit,06/02/2015,http://careers.intuit.com/job-category/7/data/job/00118285/data-scientist,True
+Data Scientist,Pluralsight,06/02/2015,http://www.indeed.com/viewjob?jk=1551a18296615acc,True
+Data Scientist,BASF,06/02/2015,http://www.indeed.com/viewjob?jk=4e8c5d3ee2290cd9,True
+"Director, Data Analytics",Mitchell International,06/02/2015,http://www.indeed.com/viewjob?jk=d00acfd9547612f8,True
+Summer Internship – Data Analysis,Achates Power,06/02/2015,http://www.indeed.com/viewjob?jk=38b0dfd0f7624af8,True
+Machine Learning Engineer,absolute opportunities,06/02/2015,http://www.indeed.com/viewjob?jk=31344f6ca0e1928d,True
+Senior Data Scientist,FocusKPI,06/02/2015,http://www.indeed.com/viewjob?jk=6fc0c269d7087f9e,True
 Lead Analytic Scientist,FICO,05/26/2015,http://www.indeed.com/viewjob?jk=138618f386345665,True
 Data Scientist,MD Revolution,05/18/2015,http://www.indeed.com/viewjob?jk=dd237575e53c2854,True
 Computer Vision / Algorithm Scientist,CureMetrix,05/18/2015,https://www.linkedin.com/jobs2/view/63058855,True
 Sr Scientist (Data Analysis and Visualization) - New College Graduate,Cymer,05/12/2015,http://www.indeed.com/viewjob?jk=33e8902b9eb4037a,True
 SOFTWARE ENGINEER: MACHINE LEARNING,The Intellisis Corporation,05/12/2015,http://www.indeed.com/viewjob?jk=46dbf4aed3abe0f1,True
-Data Scientist Intern,ID Analytics,05/12/2015,http://www.indeed.com/viewjob?jk=807a107043b0049b,True
+Data Scientist Intern,ID Analytics,05/12/2015,http://www.indeed.com/viewjob?jk=807a107043b0049b,False
 Statistician/SAS Programmer,Modern Analytics,05/12/2015,http://www.indeed.com/viewjob?jk=65f7f47802f628c3,True
 Research Data Analyst,Lytx,05/12/2015,https://lytx-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=294,True
 MACHINE LEARNING ENGINEER,High-Tech Professionals,05/12/2015,http://www.indeed.com/viewjob?jk=c661a194fa64dd04,True
 "Data Scientist, Senior Job",Booz Allen Hamilton,05/05/2015,http://www.indeed.com/viewjob?jk=72259bc2d9ca084c,True
 "Data Scientist, Junior Job",Booz Allen,05/05/2015,http://www.indeed.com/viewjob?jk=a40d944191cbbfc4,False
 Data Scientist,Pluralsight,05/05/2015,http://www.indeed.com/viewjob?jk=f0ad3776d2b8b8a6,True
-"Data Scientist, Mid Job",Booz Allen Hamilton,05/05/2015,http://www.indeed.com/viewjob?jk=771cd32777774586,True
+"Data Scientist, Mid Job",Booz Allen Hamilton,05/05/2015,http://www.indeed.com/viewjob?jk=771cd32777774586,False
 Junior Data Scientist,Themesoft,05/05/2015,http://www.indeed.com/viewjob?jk=5440bc1e00fa10d7,True
 Data Scientist,Diverse Lynx,05/05/2015,http://www.indeed.com/viewjob?jk=6822b39942e80dca,True
 "Director, Data Science",ID Analytics,04/27/2015,http://www.indeed.com/viewjob?jk=7cf92a7f1ce65fee,True
@@ -83,10 +91,10 @@ Assistant Professor: Data Science,San Diego State University,11/14/2014,http://w
 Data Scientist,Intuit,11/04/2014,https://intuit.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=00113359,False
 Health Data Analytics Scientist,Principled Strategies,11/04/2014,http://www.indeed.com/viewjob?jk=6adef83f78785c2e,False
 Data Scientist,405labs,11/04/2014,http://www.indeed.com/viewjob?jk=0d818e471274b7cc,False
-Director of Data Science,,,http://www.aplitrak.com/?adid=T0lBSC42NTU4OS4xNzYwQHN0aHJlZXVzLmFwbGl0cmFrLmNvbQ,
+Director of Data Science,,,http://www.aplitrak.com/?adid=T0lBSC42NTU4OS4xNzYwQHN0aHJlZXVzLmFwbGl0cmFrLmNvbQ,False
 Data Scientist,PacketSled,10/18/2014,http://www.indeed.com/viewjob?jk=bce7f8dfc1105a97,False
 Principal Scientist,Experian,10/10/2014,http://www.indeed.com/viewjob?jk=004222d387b78f21,False
-Senior Data Scientist,Leidos,10/10/2014,http://clearedjobs.net/view-job/174963,
+Senior Data Scientist,Leidos,10/10/2014,http://clearedjobs.net/view-job/174963,False
 Data Analytics Analyst,Mitchell International,10/04/2014,http://www.indeed.com/viewjob?jk=ae6dd50eced45202,False
 Senior Data Scientist Job,Leidos,09/19/2014,http://www.indeed.com/viewjob?jk=9400134a453fa6b6,False
 Senior Data Scientist,Experian,09/16/2014,http://www.indeed.com/viewjob?jk=47cf81b65998172a,False
@@ -97,14 +105,14 @@ Machine Learning Engineer / Data Scientist,Emotient,09/07/2014,http://www.indeed
 Lead Big Data Scientist,Smith Hanley Associates,08/22/2014,http://jobs.smithhanley.com/index.smpl?arg=jb_details&POST_ID=1771188,False
 Junior-Level Computational Scientist,Perminova,08/18/2014,https://www.linkedin.com/jobs2/view/18407113,False
 Lead Big Data Scientist/Developer,FICO,08/10/2014,https://www2.apply2jobs.com/FICO/ProfExt/index.cfm?fuseaction=mExternal.showJob&RID=8651&CurrentPage=4&sid=532,False
-Data Scientist,Collabera,08/03/2014,http://apps.collabera.com/jobs/42713-Data-Scientist-California-US?refid=Indeed.com&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed,
-Data Scientist,Axius technologies,08/03/2014,https://www.smartrecruiters.com/AxiusTechnologies2/78348344--data-scientist,
+Data Scientist,Collabera,08/03/2014,http://apps.collabera.com/jobs/42713-Data-Scientist-California-US?refid=Indeed.com&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed,False
+Data Scientist,Axius technologies,08/03/2014,https://www.smartrecruiters.com/AxiusTechnologies2/78348344--data-scientist,False
 "Data Scientist, Consumer Tax Group",Intuit,08/03/2014,https://intuit.taleo.net/careersection/2/jobdetail.ftl?lang=en&job=00113359,False
 "Director, Innovation and Predictive Modeling",Analytic Recruiting,07/17/2014,http://www.analyticrecruiting.com/list_job.asp?job_id=20749,False
 Senior Analytics Consultant,Modern Analytics,07/11/2014,http://www.modernanalytics.com/careers/,False
 Intermediate Statistician/SAS Programmer,Modern Analytics,07/11/2014,http://www.modernanalytics.com/careers/,False
 VP Analytics,Modern Analytics,07/11/2014,http://www.modernanalytics.com/careers/,False
-"Cloud Infrastructure Engineer: Consumer Web Platform, Big Data, Linux DevOps",TriStaff,06/30/2014,http://www.tristaff.com/jobs_detail.php?action=search&job_id=1085,
+"Cloud Infrastructure Engineer: Consumer Web Platform, Big Data, Linux DevOps",TriStaff,06/30/2014,http://www.tristaff.com/jobs_detail.php?action=search&job_id=1085,False
 Machine Learning Engineer,Nervana Systems,05/11/2014,https://www.linkedin.com/jobs2/view/13414465,False
 "Senior Software Engineer, Machine Learning, Artificial Intelligence",Nervana Systems,05/11/2014,https://www.linkedin.com/jobs2/view/13608770,False
 Property / Real-Estate / Home Price AVM Modeler,Analytic Recruiting,04/26/2014,http://www.analyticrecruiting.com/list_job.asp?job_id=18868,False
