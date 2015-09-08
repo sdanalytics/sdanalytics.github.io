@@ -1,37 +1,27 @@
 ,title,company,post_date,link,active,source,jobkey
-0,Data Scientist,Randstad Technologies,08/10/2015,http://www.indeed.com/viewjob?jk=72df86867030ee47,True,indeed,72df86867030ee47
-1,Data Scientist - Fraud Modeling,SAS Institute,08/10/2015,http://www.indeed.com/viewjob?jk=fe3a46fa307ba449,True,indeed,fe3a46fa307ba449
-2,Data Scientist/Big Data Engineer - Biotechnology,Workbridge Associates,08/10/2015,http://www.indeed.com/viewjob?jk=95e91d953542316a,True,indeed,95e91d953542316a
-3,Data Scientist,Tristaff Group,08/10/2015,http://www.indeed.com/viewjob?jk=4dd56eda35c7f1da,True,indeed,4dd56eda35c7f1da
-4,ABI/OBP Data Scientist,Vencore,08/10/2015,http://www.indeed.com/viewjob?jk=3087db934cd1cae6,True,indeed,3087db934cd1cae6
-5,Sr. Analytic Scientist,FICO,08/10/2015,http://www.indeed.com/viewjob?jk=347faff827a835ad,True,indeed,347faff827a835ad
-6,Data Scientist,kutir corporation,08/10/2015,http://www.indeed.com/viewjob?jk=55197a303d93cbb1,True,indeed,55197a303d93cbb1
-7,Machine Learning Engineer,High-Tech Professionals,08/10/2015,http://www.indeed.com/viewjob?jk=6166ca5079d13a51,True,indeed,6166ca5079d13a51
-8,Sr. Data Analyst,Bridgepoint Education,08/10/2015,http://www.indeed.com/viewjob?jk=68b7fd3780e74ba7,True,indeed,68b7fd3780e74ba7
-9,Data Analytics Analyst,UCSD,07/19/2015,https://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77011&search=analytics,True,,
-10,Staff Data Scientist,KForce,07/19/2015,http://www.indeed.com/viewjob?jk=c4a662b620ca0471,True,indeed,c4a662b620ca0471
-11,Clinical Data Analyst/Senior Clinical Data Analyst,Hologic,07/19/2015,http://www.indeed.com/viewjob?jk=80d021162b338a66,True,indeed,80d021162b338a66
-12,Data Scientist,FocusKPI,06/19/2015,http://www.indeed.com/viewjob?jk=91b24ac2d4a6b0bb,True,indeed,91b24ac2d4a6b0bb
-16,Software Engineer: Machine Learning,Intellisis,07/19/2015,http://www.indeed.com/viewjob?jk=0446c9aaec6e21ae,True,indeed,0446c9aaec6e21ae
-19,Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,True,indeed,84bb680c6e51e11c
-20,Data Analyst/Research Associate,Leidos,07/19/2015,Leidos,True,,
-21,Associate Data Scientist,Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=17127b7b5c52309f,True,indeed,17127b7b5c52309f
-22,"VP, Analytics",Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=d7aa385e5ba7850e,True,indeed,d7aa385e5ba7850e
-23,Statistical Analyst (Programmer),Pharmapace,07/19/2015,http://www.indeed.com/viewjob?jk=c0ece836df06953d,True,indeed,c0ece836df06953d
-24,"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,True,indeed,ac64db7a03ae2182
-25,Data Scientist – Machine Learning Engineer,Tristaff Group,07/19/2015,http://www.indeed.com/viewjob?jk=27f786d3a67129f5,True,indeed,27f786d3a67129f5
-26,Sr. Data Platform Operations Engineer,Sony,07/19/2015,http://www.indeed.com/viewjob?jk=cee7223e3a039e21,True,indeed,cee7223e3a039e21
-28,Data Scientist Job,BASF,06/21/2015,http://www.indeed.com/viewjob?jk=24a3e274d557a948,True,indeed,24a3e274d557a948
-31,Associate Data Scientist,ID Analytics,06/21/2015,http://www.indeed.com/viewjob?jk=a36f0a400abd53e1,True,indeed,a36f0a400abd53e1
-32,Data Integration Engineer,Human Longevity,06/21/2015,http://www.indeed.com/viewjob?jk=65e620b79f7d2a19,True,indeed,65e620b79f7d2a19
-34,Sr. Data Platform Operations Engineer,Synergy Seven,06/21/2015,http://www.indeed.com/viewjob?jk=d9a8c4c53338efb0,True,indeed,d9a8c4c53338efb0
-39,Senior Algorithm Engineer - Data Scientist,Dexcom,06/21/2015,http://www.indeed.com/viewjob?jk=caeff5e71b0b52ac,True,indeed,caeff5e71b0b52ac
-41,Software Engineer-Machine Learning,Webroot,06/21/2015,http://www.indeed.com/viewjob?jk=0e2651398596a120,True,indeed,0e2651398596a120
-42,Intuit Hiring - Data Engineer,Intellipro Group,06/21/2015,http://www.indeed.com/viewjob?jk=ddd81e6b22ed0ae4,True,indeed,ddd81e6b22ed0ae4
-47,"Director, Data Analytics",Mitchell International,06/02/2015,http://www.indeed.com/viewjob?jk=d00acfd9547612f8,True,indeed,d00acfd9547612f8
-51,Lead Analytic Scientist,FICO,05/26/2015,http://www.indeed.com/viewjob?jk=138618f386345665,True,indeed,138618f386345665
-53,Computer Vision / Algorithm Scientist,CureMetrix,05/18/2015,https://www.linkedin.com/jobs2/view/63058855,True,,
-58,Research Data Analyst,Lytx,05/12/2015,https://lytx-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=294,True,,
-75,Big Data Engineer,Digital Telepathy,03/28/2015,http://www.dtelepathy.com/careers/big-data-engineer/,True,,
-89,Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True,,
-120,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
+0,Data Scientist,Cognizant,09/07/2015,http://www.indeed.com/viewjob?jk=f90a19996408d31c,True,indeed,f90a19996408d31c
+1,Lead Applied Statistician with Machine Learning and Python,StaffWing,09/07/2015,http://www.indeed.com/viewjob?jk=38527e5c1e85d9ea,True,indeed,38527e5c1e85d9ea
+2,Research Scientist / Data Analyst,Leidos,09/07/2015,http://www.indeed.com/viewjob?jk=becd4eadaab868c4,True,indeed,becd4eadaab868c4
+3,Software Engineer-Machine Learning,Webroot,09/07/2015,http://www.indeed.com/viewjob?jk=7d0cdd0dcf07eba4,True,indeed,7d0cdd0dcf07eba4
+4,Senior Data Scientist,Experiean,09/07/2015,http://www.indeed.com/viewjob?jk=b934f138b67a10f6,True,indeed,b934f138b67a10f6
+8,Data Scientist,Tristaff Group,08/10/2015,http://www.indeed.com/viewjob?jk=4dd56eda35c7f1da,True,indeed,4dd56eda35c7f1da
+9,ABI/OBP Data Scientist,Vencore,08/10/2015,http://www.indeed.com/viewjob?jk=3087db934cd1cae6,True,indeed,3087db934cd1cae6
+10,Sr. Analytic Scientist,FICO,08/10/2015,http://www.indeed.com/viewjob?jk=347faff827a835ad,True,indeed,347faff827a835ad
+12,Machine Learning Engineer,High-Tech Professionals,08/10/2015,http://www.indeed.com/viewjob?jk=6166ca5079d13a51,True,indeed,6166ca5079d13a51
+14,Data Analytics Analyst,UCSD,07/19/2015,https://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77011&search=analytics,True,,
+15,Staff Data Scientist,KForce,07/19/2015,http://www.indeed.com/viewjob?jk=c4a662b620ca0471,True,indeed,c4a662b620ca0471
+21,Software Engineer: Machine Learning,Intellisis,07/19/2015,http://www.indeed.com/viewjob?jk=0446c9aaec6e21ae,True,indeed,0446c9aaec6e21ae
+24,Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,True,indeed,84bb680c6e51e11c
+25,Data Analyst/Research Associate,Leidos,07/19/2015,Leidos,True,,
+29,"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,True,indeed,ac64db7a03ae2182
+30,Data Scientist – Machine Learning Engineer,Tristaff Group,07/19/2015,http://www.indeed.com/viewjob?jk=27f786d3a67129f5,True,indeed,27f786d3a67129f5
+36,Associate Data Scientist,ID Analytics,06/21/2015,http://www.indeed.com/viewjob?jk=a36f0a400abd53e1,True,indeed,a36f0a400abd53e1
+37,Data Integration Engineer,Human Longevity,06/21/2015,http://www.indeed.com/viewjob?jk=65e620b79f7d2a19,True,indeed,65e620b79f7d2a19
+39,Sr. Data Platform Operations Engineer,Synergy Seven,06/21/2015,http://www.indeed.com/viewjob?jk=d9a8c4c53338efb0,True,indeed,d9a8c4c53338efb0
+44,Senior Algorithm Engineer - Data Scientist,Dexcom,06/21/2015,http://www.indeed.com/viewjob?jk=caeff5e71b0b52ac,True,indeed,caeff5e71b0b52ac
+46,Software Engineer-Machine Learning,Webroot,06/21/2015,http://www.indeed.com/viewjob?jk=0e2651398596a120,True,indeed,0e2651398596a120
+58,Computer Vision / Algorithm Scientist,CureMetrix,05/18/2015,https://www.linkedin.com/jobs2/view/63058855,True,,
+63,Research Data Analyst,Lytx,05/12/2015,https://lytx-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=294,True,,
+80,Big Data Engineer,Digital Telepathy,03/28/2015,http://www.dtelepathy.com/careers/big-data-engineer/,True,,
+94,Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True,,
+125,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
