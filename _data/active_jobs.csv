@@ -1,27 +1,23 @@
 ,title,company,post_date,link,active,source,jobkey
-0,Data Scientist,Cognizant,09/07/2015,http://www.indeed.com/viewjob?jk=f90a19996408d31c,True,indeed,f90a19996408d31c
-1,Lead Applied Statistician with Machine Learning and Python,StaffWing,09/07/2015,http://www.indeed.com/viewjob?jk=38527e5c1e85d9ea,True,indeed,38527e5c1e85d9ea
-2,Research Scientist / Data Analyst,Leidos,09/07/2015,http://www.indeed.com/viewjob?jk=becd4eadaab868c4,True,indeed,becd4eadaab868c4
-3,Software Engineer-Machine Learning,Webroot,09/07/2015,http://www.indeed.com/viewjob?jk=7d0cdd0dcf07eba4,True,indeed,7d0cdd0dcf07eba4
-4,Senior Data Scientist,Experiean,09/07/2015,http://www.indeed.com/viewjob?jk=b934f138b67a10f6,True,indeed,b934f138b67a10f6
-8,Data Scientist,Tristaff Group,08/10/2015,http://www.indeed.com/viewjob?jk=4dd56eda35c7f1da,True,indeed,4dd56eda35c7f1da
-9,ABI/OBP Data Scientist,Vencore,08/10/2015,http://www.indeed.com/viewjob?jk=3087db934cd1cae6,True,indeed,3087db934cd1cae6
-10,Sr. Analytic Scientist,FICO,08/10/2015,http://www.indeed.com/viewjob?jk=347faff827a835ad,True,indeed,347faff827a835ad
-12,Machine Learning Engineer,High-Tech Professionals,08/10/2015,http://www.indeed.com/viewjob?jk=6166ca5079d13a51,True,indeed,6166ca5079d13a51
-14,Data Analytics Analyst,UCSD,07/19/2015,https://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77011&search=analytics,True,,
-15,Staff Data Scientist,KForce,07/19/2015,http://www.indeed.com/viewjob?jk=c4a662b620ca0471,True,indeed,c4a662b620ca0471
-21,Software Engineer: Machine Learning,Intellisis,07/19/2015,http://www.indeed.com/viewjob?jk=0446c9aaec6e21ae,True,indeed,0446c9aaec6e21ae
-24,Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,True,indeed,84bb680c6e51e11c
-25,Data Analyst/Research Associate,Leidos,07/19/2015,Leidos,True,,
-29,"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,True,indeed,ac64db7a03ae2182
-30,Data Scientist – Machine Learning Engineer,Tristaff Group,07/19/2015,http://www.indeed.com/viewjob?jk=27f786d3a67129f5,True,indeed,27f786d3a67129f5
-36,Associate Data Scientist,ID Analytics,06/21/2015,http://www.indeed.com/viewjob?jk=a36f0a400abd53e1,True,indeed,a36f0a400abd53e1
-37,Data Integration Engineer,Human Longevity,06/21/2015,http://www.indeed.com/viewjob?jk=65e620b79f7d2a19,True,indeed,65e620b79f7d2a19
-39,Sr. Data Platform Operations Engineer,Synergy Seven,06/21/2015,http://www.indeed.com/viewjob?jk=d9a8c4c53338efb0,True,indeed,d9a8c4c53338efb0
-44,Senior Algorithm Engineer - Data Scientist,Dexcom,06/21/2015,http://www.indeed.com/viewjob?jk=caeff5e71b0b52ac,True,indeed,caeff5e71b0b52ac
-46,Software Engineer-Machine Learning,Webroot,06/21/2015,http://www.indeed.com/viewjob?jk=0e2651398596a120,True,indeed,0e2651398596a120
-58,Computer Vision / Algorithm Scientist,CureMetrix,05/18/2015,https://www.linkedin.com/jobs2/view/63058855,True,,
-63,Research Data Analyst,Lytx,05/12/2015,https://lytx-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=294,True,,
-80,Big Data Engineer,Digital Telepathy,03/28/2015,http://www.dtelepathy.com/careers/big-data-engineer/,True,,
-94,Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True,,
-125,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
+0,New Grad - Data Scientist,ViaSat,10/05/2015,http://www.indeed.com/viewjob?jk=731b44874867d98b,True,indeed,731b44874867d98b
+1,Data Scientist,Intensity,10/05/2015,http://www.indeed.com/viewjob?jk=78b314cbba7ea1b7,True,indeed,78b314cbba7ea1b7
+2,Data Scientist,CA Technologies,10/05/2015,http://www.indeed.com/viewjob?jk=b0ccddfaa0acf7d9,True,indeed,b0ccddfaa0acf7d9
+3,Senior Data Engineer,Intuit,10/05/2015,http://www.indeed.com/viewjob?jk=3e32e9ae7bb75eaf,True,indeed,3e32e9ae7bb75eaf
+4,Data Scientist,Intuit,10/05/2015,http://www.indeed.com/viewjob?jk=79d9b30025513dc8,True,indeed,79d9b30025513dc8
+5,Big Data Security Analytics Research Senior Manager,Accenture,10/05/2015,http://www.indeed.com/viewjob?jk=d5c081e76cb2bed9,True,indeed,d5c081e76cb2bed9
+7,Lead Applied Statistician with Machine Learning and Python,StaffWing,09/07/2015,http://www.indeed.com/viewjob?jk=38527e5c1e85d9ea,True,indeed,38527e5c1e85d9ea
+8,Research Scientist / Data Analyst,Leidos,09/07/2015,http://www.indeed.com/viewjob?jk=becd4eadaab868c4,True,indeed,becd4eadaab868c4
+9,Software Engineer-Machine Learning,Webroot,09/07/2015,http://www.indeed.com/viewjob?jk=7d0cdd0dcf07eba4,True,indeed,7d0cdd0dcf07eba4
+15,ABI/OBP Data Scientist,Vencore,08/10/2015,http://www.indeed.com/viewjob?jk=3087db934cd1cae6,True,indeed,3087db934cd1cae6
+17,Data Scientist,kutir corporation,08/10/2015,http://www.indeed.com/viewjob?jk=55197a303d93cbb1,True,indeed,55197a303d93cbb1
+18,Machine Learning Engineer,High-Tech Professionals,08/10/2015,http://www.indeed.com/viewjob?jk=6166ca5079d13a51,True,indeed,6166ca5079d13a51
+20,Data Analytics Analyst,UCSD,07/19/2015,https://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77011&search=analytics,True,,
+30,Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,True,indeed,84bb680c6e51e11c
+31,Data Analyst/Research Associate,Leidos,07/19/2015,Leidos,True,,
+32,Associate Data Scientist,Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=17127b7b5c52309f,True,indeed,17127b7b5c52309f
+35,"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,True,indeed,ac64db7a03ae2182
+64,Computer Vision / Algorithm Scientist,CureMetrix,05/18/2015,https://www.linkedin.com/jobs2/view/63058855,True,,
+69,Research Data Analyst,Lytx,05/12/2015,https://lytx-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.dspjob&jobid=294,True,,
+86,Big Data Engineer,Digital Telepathy,03/28/2015,http://www.dtelepathy.com/careers/big-data-engineer/,True,,
+100,Data Scientist,secret startup,03/17/2015,mailto:john.cleary@aplayerexec.com,True,,
+131,Data Scientist,CureMetrix,11/26/2014,http://curemetrix.com/2014/11/curemetrix-is-hiring-data-scientists/,,,
