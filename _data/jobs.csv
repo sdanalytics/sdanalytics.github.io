@@ -1,4 +1,10 @@
 title,company,post_date,link,active
+Data Scientist,Kforce,10/13/2015,http://www.indeed.com/viewjob?jk=6afe4e432801d3e4,True
+Data Scientist - Government Product Group,Renovate America,10/13/2015,http://www.indeed.com/viewjob?jk=821013b45209796e,True
+Lead Data Architect,BAE Systems,10/13/2015,http://www.indeed.com/viewjob?jk=60f31570a1352382,True
+Staff Algorithm Engineer - Machine Learning,Dexcom,10/13/2015,http://www.indeed.com/viewjob?jk=ddf633f97d40bcd5,True
+"AVP, Data Scientist",LPL Financial,10/13/2015,http://www.indeed.com/viewjob?jk=3e36d6e7664e22df,True
+Junior Data Scientist,Systel,10/13/2015,http://www.indeed.com/viewjob?jk=131929d7a211d71a,True
 New Grad - Data Scientist,ViaSat,10/05/2015,http://www.indeed.com/viewjob?jk=731b44874867d98b,True
 Data Scientist,Intensity,10/05/2015,http://www.indeed.com/viewjob?jk=78b314cbba7ea1b7,True
 Data Scientist,CA Technologies,10/05/2015,http://www.indeed.com/viewjob?jk=b0ccddfaa0acf7d9,True
@@ -29,12 +35,12 @@ Data Scientist,Intuit,07/19/2015,http://www.indeed.com/viewjob?jk=264bfe2673fa9a
 Software Engineer: Machine Learning,Intellisis,07/19/2015,http://www.indeed.com/viewjob?jk=0446c9aaec6e21ae,False
 Data Scientist,SmarterHQ,07/19/2015,http://www.indeed.com/viewjob?jk=9177223188c12cf1,False
 Data Scientist,ID Analytics,07/19/2015,http://www.indeed.com/viewjob?jk=38b57cf570bdd86d,False
-Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,True
+Junior Data Scientist,Systel,07/19/2015,http://www.indeed.com/viewjob?jk=84bb680c6e51e11c,False
 Data Analyst/Research Associate,Leidos,07/19/2015,Leidos,True
-Associate Data Scientist,Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=17127b7b5c52309f,True
+Associate Data Scientist,Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=17127b7b5c52309f,False
 "VP, Analytics",Elevate,07/19/2015,http://www.indeed.com/viewjob?jk=d7aa385e5ba7850e,False
 Statistical Analyst (Programmer),Pharmapace,07/19/2015,http://www.indeed.com/viewjob?jk=c0ece836df06953d,False
-"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,True
+"Senior Scientist, Data Analyst",Alere,07/19/2015,http://www.indeed.com/viewjob?jk=ac64db7a03ae2182,False
 Data Scientist – Machine Learning Engineer,Tristaff Group,07/19/2015,http://www.indeed.com/viewjob?jk=27f786d3a67129f5,False
 Sr. Data Platform Operations Engineer,Sony,07/19/2015,http://www.indeed.com/viewjob?jk=cee7223e3a039e21,False
 Statistician/SAS Programmer,Modern Analytics,06/21/2015,http://www.modernanalytics.com/careers/,False
